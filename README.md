@@ -15,7 +15,7 @@ The Vindelev dataset is currently being prepared for a DOI. For inquiries relate
 - Carsten Gundlach: [cagu@fysik.dtu.dk](mailto:cagu@fysik.dtu.dk)
 - Hans Martin Kjer: [hmkj@dtu.dk](mailto:hmkj@dtu.dk)
 
-It is assumed that all the center slice data with COR corrections are saved under the `centres/` directory as `AcquisitionData` objects in pickle data format.
+It is assumed that all the center slice data with COR corrections are saved under the `centres/` directory as `AcquisitionData` objects in `pickle` data format.
 
 ## Environment Setup
 
