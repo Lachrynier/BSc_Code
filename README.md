@@ -25,11 +25,11 @@ The Python virtual environment manager used for this project is `conda`. All the
 
 ### `core.py`
 
-This file contains the major functions and classes used throughout the project, including those required by `plotting.py`.
+This file contains the major functions and classes used throughout the project, including those required by `plotting.py`. These are mostly documented and open to reuse.
 
 ### `plotting.py`
 
-This file contains the code to generate the majority of the plots, primarily related to 2D reconstructions, for the report.
+This file contains the code to generate the majority of the plots, primarily related to 2D reconstructions, for the report. This is structured such that one figure usually corresponds to one function. Each function is short and the code should be self-documenting.
 
 ### `notebooks/`
 
