@@ -19,7 +19,7 @@ It is assumed that all the center slice data with COR corrections are saved unde
 
 ## Environment Setup
 
-The Python virtual environment used for this project is `conda`. All the required channels, packages, and dependencies are listed in the `requirements.yml` file.
+The Python virtual environment manager used for this project is `conda`. All the required channels, packages, and dependencies are listed in the `requirements.yml` file.
 
 ## Repository Structure
 
